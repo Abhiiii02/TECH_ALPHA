@@ -1,3 +1,2 @@
 # TECH_ALPHA
-TASK OF TECH ALPHA
-abhishek kanungo
+All TASK OF TECH ALPHA
